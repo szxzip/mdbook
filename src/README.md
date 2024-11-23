@@ -11,3 +11,7 @@
 - 第六章：与自我和解
 - 第七章：完美自我
 - 结语：自我之诗
+
+<br/>
+
+\* This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
