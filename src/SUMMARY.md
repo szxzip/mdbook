@@ -1,6 +1,9 @@
 # Summary
 
-- [Introduction](./README.md)
+[Introduction](./README.md)
+
+# Book
+
 - [序言：我是谁？](./preface.md)
 - [第一章：“我”从哪里来？](./chapter_1.md)
 - [第二章：理想自我](./chapter_2.md)
