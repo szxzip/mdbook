@@ -32,6 +32,6 @@ Reflection of Inner World: This stage reflects greater **emotional stability**, 
 
 Shifting Needs: Childhood music reflects a need for simplicity and joy, adolescence captures exploration and identity-building, and adulthood highlights a search for meaning and comfort.
 
-Emotional Maturity: The progression from surface-level enjoyment to deeper emotional and intellectual connection mirrors our psychological and emotional development.
+**Emotional Maturity**: The progression from surface-level enjoyment to deeper emotional and intellectual connection mirrors our psychological and emotional development.
 
 Ultimately, the evolution of our musical tastes serves as a soundtrack to our personal growth, with each phase offering insight into the person we were, are, and aspire to be.

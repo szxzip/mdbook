@@ -1,6 +1,4 @@
-### (Quora)
-
-### How can music change the way we see the world?
+## (Quora) How can music change the way we see the world?
 
 #### Idea 1
 
@@ -49,3 +47,13 @@ These are my top 5 favourite songs:
     American dream (madona).
     Beautiful (eminem).
     Dark paradise (lana del rey).
+
+## (Reddit) How has the music of your childhood affected you as an adult?
+
+Only in that exposed me to my parent's music, which made me more tolerant of different types of music and more open to listening to that music as I grew older. My father was very big on classical and marching bands. I never really took a liking to classical but can listen to it with a bit of appreciation and without grumbling. I think his love of brassy John Phillips Sousa is why I like bright, fast power pop.
+
+My mother preferred mainstream music, which at that time was often jazz and what has become known the American Songbook. She always had the radio on at breakfast before I went to school. While I prefer a more edgy tone to my jazz, exposure to Louis Armstrong and Benny Goodman didn't hurt me a bit and all of the standards became the foundation for jazz improvisation. She probably had a greater influence on my tastes in music.
+
+There was very little politics or opinion in American popular music before the 1960s, so my ideology was not affected. We only listened to the Mormon Tabernacle Choir and such for xmas. Just for the sound, not the message.
+
+There was Woody Guthrie, The Weavers and folk music in the 50s, but one's attitudes toward unions and leftist politics had been established earlier through contact from relatives who worked in the factory and from exposure to the benefits of Roosevelt's New Deal.

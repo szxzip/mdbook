@@ -5,4 +5,4 @@
 # Presentation
 
 - [内容](./content.md)
-- [其他材料](./material.md)
+- [材料待完善](./material.md)
