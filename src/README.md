@@ -1,8 +1,8 @@
-# ctrl
+# 
 
-### [Part 1: How does the music we listen to change from childhood to adulthood?](./part_1.md)
-
-### [Part 2: How do these changes reflect our inner world and growth trajectory?](./part_2.md)
+Content: 
+- How does the music we listen to change from childhood to adulthood?
+- How do these changes reflect our inner world and growth trajectory?
 
 <br/>
 
